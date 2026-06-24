@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.idea
+.env
+*.log
+data/output*.json
+.DS_Store
